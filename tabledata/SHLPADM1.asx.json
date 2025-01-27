@@ -1,0 +1,19 @@
+[
+ {
+  "table":"SHLPADM1",
+  "data":
+  [
+   {
+    "NAME":"ztest",
+    "PLATFORM":"JAVA",
+    "AREA":"IWBHELP",
+    "TYPE":3,
+    "SERVER":"",
+    "PATH":"http://test.com",
+    "SHLPLANG":"1",
+    "PROTOCOL":"",
+    "DEF_FLAG":"X"
+   }
+  ]
+ }
+]

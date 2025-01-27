@@ -1,0 +1,18 @@
+[
+ {
+  "table":"SHLPADM1",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"NAME",
+      "value":"ztest"
+     }
+    ],
+    "hash":"by5NIkfD4jnXDah+aQUOYXL4XoA="
+   }
+  ]
+ }
+]
